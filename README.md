@@ -1,8 +1,8 @@
 
 # 🌐 Personal Portfolio Website
 
-Hi there! 👋 I'm *Sourav, a passionate developer from Mangaluru, India. 
-This is my personal portfolio website built with **HTML, **CSS, and **JavaScript* to showcase my skills,
+Hi there! 👋 I'm Sourav, a passionate developer from Mangaluru, India. 
+This is my personal portfolio website built with HTML,CSS, and JavaScript to showcase my skills,
 interests, and experiences in web development and AI.
 
 ## 🚀 Features
