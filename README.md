@@ -20,3 +20,5 @@ Replace # with your deployed link (e.g., GitHub Pages, Vercel, Netlify)
 - Frontend: HTML5, CSS3, JavaScript (ES6+)
 - Icons: [Ionicons](https://ionic.io/ionicons)
 - Fonts: Google Fonts – [Poppins](https://fonts.google.com/specimen/Poppins)
+
+- You can find final outout in a.png
