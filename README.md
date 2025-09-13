@@ -3,7 +3,7 @@ one commit
 
 Hi there! 👋 I'm Sourav, a passionate developer from Mangaluru, India. 
 This is my personal portfolio website built with HTML,CSS, and JavaScript to showcase my skills,
-interests, and experiences in web development and AI.
+interests, and experiences in web development and AI.This is just a basic portfolio of me
 
 ## 🚀 Features
 - 🖥️ Fully responsive design
